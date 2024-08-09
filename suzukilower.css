@@ -13,32 +13,10 @@ h1 {
 p {
     text-align: center;
     color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; 
-    font-size: 14px; margin:0pt;
+    font-size: 14px; margin:0px;
 }
 
 
-/*.s9 {
-    padding-left: 1px;
-    text-indent: 0pt;
-    line-height: 10px;
-
-}
-/*.s10 {
-    padding-top: 7px;
-    padding-left: 237px;
-    text-align: center;
-    text-indent: 0pt;
-
-}
-/* .s14 {
-    text-indent: 0pt;
-    line-height: 11pt;
-}*/
-/* .s15 {
-     padding-left: 1pt;
-     text-indent: 0pt;
-     line-height: 11pt;
-}*/
 
 table {
     border-collapse:collapse;
@@ -69,7 +47,9 @@ background-color: #A6A6A6;
 .tdsecond {
     background-color: #3cdfff;
      height: 1.5em;
- 
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
